@@ -7,14 +7,13 @@ My name is Moditha Sulakshana and I'm a software developer/designer. I'm a Sri L
 <br>Let's Chat? @ 
     <br> Email <a href="mailto:modisulak@gmail.com?subject=Hi Modi!! I saw your GitHub">modisulak@gmail.com</a>
    <p align="center" >
-         <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="50px">   
-        Checkout my Website!
+         <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="50px">  Checkout my Website!
   <samp>
      <br><img src="https://media.giphy.com/media/RMNuCYYKbWu4SisSBA/giphy.gif" width="20px"> <a href="https://modisulak.com">modisulak.com</a> <img src="https://media.giphy.com/media/RMNuCYYKbWu4SisSBA/giphy.gif" width="20px">
   </samp>
 </p> 
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="50px">  
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
