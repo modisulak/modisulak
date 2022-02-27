@@ -42,12 +42,12 @@ My name is Moditha Sulakshana and I'm a software developer/video producer. I'm f
 
 <!-- icons with padding -->
 
-[1.1]: https://i.imgur.com/usPTaMN.png (instagram icon without padding) 
+[1.1]: https://i.imgur.com/GLtppgN.png (instagram icon with padding) 
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
 
-[1.2]: https://i.imgur.com/usPTaMN.png (instagram icon without padding)
+[1.2]: https://i.imgur.com/GLtppgN.png (instagram icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://i.imgur.com/Nfys5wD.png (LinkedIn icon without padding)
 
