@@ -4,7 +4,6 @@
 
 My name is Moditha Sulakshana and I'm a software developer/designer. I'm a Sri Lankan living in Melbourne, Australia and currently working as a freelancer. You can find me on [![Instagram][1.2]][1],  or on [![LinkedIn][3.2]][3].
 <p align="center" >
-  <p align="center" >
 <br>Let's Chat? @ 
     <br> Email <a href="mailto:modisulak@gmail.com?subject=Hi Modi!! I saw your GitHub">modisulak@gmail.com</a>
    
