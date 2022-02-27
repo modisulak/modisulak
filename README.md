@@ -36,16 +36,7 @@ My name is Moditha Sulakshana and I'm a software developer/designer. I'm a Sri L
 </a>
 <a href="https://github.com/modisulak/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=modisulak&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/modisulak/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=modisulak&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/modisulak/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=modisulak&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a> 
 
 <!-- links to social media icons -->
 
@@ -56,7 +47,7 @@ My name is Moditha Sulakshana and I'm a software developer/designer. I'm a Sri L
 
 <!-- icons without padding -->
 
-[1.2]: https://i.imgur.com/f6N1jUc.png (instagram icon without padding)
+[1.2]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white (instagram icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://i.imgur.com/Nfys5wD.png (LinkedIn icon without padding)
 
