@@ -9,7 +9,6 @@ My name is Moditha Sulakshana and I'm a software developer/designer. I'm a Sri L
     <br> Email <a href="mailto:modisulak@gmail.com?subject=Hi Modi!! I saw your GitHub">modisulak@gmail.com</a>
    
 <em>Checkout my Website!</em>
-  </samp>
   <img src="https://media.giphy.com/media/VInJnuZhtzTfV7LnzQ/giphy.gif" width="50px">   
   <samp>
      <br><img src="https://media.giphy.com/media/RMNuCYYKbWu4SisSBA/giphy.gif" width="20px"> <a href="https://modisulak.com">modisulak.com</a> <img src="https://media.giphy.com/media/RMNuCYYKbWu4SisSBA/giphy.gif" width="20px">
