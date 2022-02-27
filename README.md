@@ -2,7 +2,7 @@
 
 # Hello, peeps! <img src="https://raw.githubusercontent.com/modisulak/modisulak/master/assets/wave.gif" width="30px">
 
-My name is Moditha Sulakshana and I'm a software developer/designer. I'm a Sri Lankan living in Melbourne, Australia and currently working as a freelancer. You can find me on [![Instagram][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Moditha Sulakshana and I'm a software developer/designer. I'm a Sri Lankan living in Melbourne, Australia and currently working as a freelancer. You can find me on ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)[1.2]][1],  or on [![LinkedIn][3.2]][3].
 <p align="center" >
 <br>Let's Chat? @ 
     <br> <img src="https://media.giphy.com/media/9l8MXyxSEC3O8/giphy.gif" width="20px"> <a href="mailto:modisulak@gmail.com?subject=Hi Modi!! I saw your GitHub">modisulak@gmail.com</a>
