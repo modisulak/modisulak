@@ -4,14 +4,14 @@
 
 My name is Moditha Sulakshana and I'm a software developer/designer. I'm a Sri Lankan living in Melbourne, Australia and currently working as a freelancer. You can find me on [![Instagram][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-<br><br> Let's Chat? @ 
+<br>Let's Chat? @ 
     <br> Email <a href="mailto:modisulak@gmail.com?subject=Hi Modi!! I saw your GitHub">modisulak@gmail.com</a>
    
-<br><br><em>Checkout my Website!</em>
+<br><em>Checkout my Website!</em>
   </samp>
   <img src="https://media.giphy.com/media/J4803rJjCrqrRpU47f/source.gif" width="50px">   
   <samp>
-     <br><img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"> <a href="https://modisulak.com">modisulak.com</a> <img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px">
+     <br><img src="https://media.giphy.com/media/kM3XBzT67rIp6XgEt6/giphy.gif" width="20px"> <a href="https://modisulak.com">modisulak.com</a> <img src="https://media.giphy.com/media/kM3XBzT67rIp6XgEt6/giphy.gif" width="20px">
   </samp>
 
 ## 🔧 Technologies & Tools
