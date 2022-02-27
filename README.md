@@ -19,35 +19,23 @@ My name is Moditha Sulakshana and I'm a software developer/video producer. I'm f
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
-
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [Upcoming Python Features Brought to You by Python Enhancement Proposals](https://bit.ly/3oMJ6qR)
-- [Creating Beautiful Tracebacks with Python&#39;s Exception Hooks](https://bit.ly/3IRD7IK)
-- [Building GitHub Apps with Golang](https://bit.ly/3A3B69t)
-- [Profiling and Analyzing Performance of Python Programs](https://bit.ly/31lKCYA)
-<!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/modisulak/modisulak">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/modisulak/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=modisulak&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/modisulak/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=modisulak&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/modisulak/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=modisulak&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
