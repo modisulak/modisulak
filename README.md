@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/modisulak/modisulak/master/readme_header.png "Header")](https://modisulak.com/)
 
-# Hello, peeps! <img src="https://raw.githubusercontent.com/modisulak/modisulak/master/assets/wave.gif" style="width:20px;" width="20px">
+# Hello, peeps! <img src="https://raw.githubusercontent.com/modisulak/modisulak/master/assets/wave.gif" style="width:20px;">
 
 My name is Moditha Sulakshana and I'm a software developer/designer. I'm a Sri Lankan living in Melbourne, Australia and currently working as a freelancer. You can find me on [![Instagram][1.2]][1],  or on [![LinkedIn][3.2]][3].
 <p align="center" >
