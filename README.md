@@ -4,16 +4,16 @@
 
 My name is Moditha Sulakshana and I'm a software developer/designer. I'm a Sri Lankan living in Melbourne, Australia and currently working as a freelancer. You can find me on [![Instagram][1.2]][1],  or on [![LinkedIn][3.2]][3].
 <p align="center" >
-<br>Let's Chat? @ 
-    <br> <img src="https://media.giphy.com/media/9l8MXyxSEC3O8/giphy.gif" width="20px"> <a href="mailto:modisulak@gmail.com?subject=Hi Modi!! I saw your GitHub">modisulak@gmail.com</a>
+<br>Let's Chat? Email Me: 
+    <br> <a href="mailto:modisulak@gmail.com?subject=Hi Modi!! I saw your GitHub">modisulak@gmail.com</a>
    <p align="center" >
-         <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="30x">  Checkout my Website!
+     Checkout my Website!
   <samp>
-     <br><img src="https://media.giphy.com/media/RMNuCYYKbWu4SisSBA/giphy.gif" width="20px"> <a href="https://modisulak.com">modisulak.com</a> <img src="https://media.giphy.com/media/RMNuCYYKbWu4SisSBA/giphy.gif" width="20px">
+     <br><a href="https://modisulak.com">modisulak.com</a>
   </samp>
 </p> 
 
-## 🔧 Technologies & Tools <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="50px">  
+## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
